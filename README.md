@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/aaox/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🙋Welcome to Academy!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🙋WelcomeAcademy">
   </a>
 </h1>
 <div align="center">
